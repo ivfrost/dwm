@@ -29,7 +29,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/valen-gh/dwm-vl.git "$HOME/.local/opt/dwm"
+git clone https://github.com/valen-gh/dwm.git "$HOME/.local/opt/dwm"
 cd "$HOME/.local/opt/dwm"
 sudo make install
 ```
