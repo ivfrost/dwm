@@ -64,6 +64,7 @@ static const Rule rules[] = {
 	{ "Tor Browser",	 NULL,	     NULL,       1 << 6,       0,	     0,           -1 },
 	{ "firefox tl",        	 NULL,       NULL,       1 << 3,       1,	     0,           -1 },
 	{ "firefox wa", 	 NULL,       NULL,       1 << 3,       1,	     0,           -1 },
+	{ "Spotify", 	  	 NULL,       NULL,       1 << 4,       1,	     0,           -1 },
 	{ "KeePassXC",	 	 NULL,       NULL,       0,	       1,	     1,           -1 },
 	{ "exiftool",   	 NULL,       NULL,       0,            1,	     1,           -1 },
 	{ "weather",    	 NULL,       NULL,       0,            1,	     1,           -1 },
