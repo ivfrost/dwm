@@ -29,8 +29,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/valen-gh/dwm-vl.git "$HOME/.local/opt/dwm-vl"
-cd "$HOME/.local/opt/dwm-vl"
+git clone https://github.com/valen-gh/dwm-vl.git "$HOME/.local/opt/dwm"
+cd "$HOME/.local/opt/dwm"
 sudo make install
 ```
 
@@ -38,7 +38,7 @@ sudo make install
 ## Useful bash aliases
 
 ```bash
-alias cdwm="cd $HOME/.local/opt/dwm-vl"
+alias cdwm="cd $HOME/.local/opt/dwm"
 alias sls="rm -f config.h && doas make install && killall dwm"
 ```
 
