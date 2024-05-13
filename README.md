@@ -1,5 +1,5 @@
 # valen's dwm
-
+![valen's dwm preview](dwm.png?)
 
 ## Patches applied
 
