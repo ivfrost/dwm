@@ -1,5 +1,5 @@
-# valen's dwm
-![valen's dwm preview](dwm.png?)
+# ivfrost's dwm
+![ivfrost's dwm preview](dwm.png?)
 
 ## Patches applied
 
@@ -29,7 +29,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/valen-gh/dwm.git "$HOME/.local/opt/dwm"
+git clone https://github.com/ivfrost/dwm.git "$HOME/.local/opt/dwm"
 cd "$HOME/.local/opt/dwm"
 sudo make install
 ```
